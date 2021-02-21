@@ -1,0 +1,16 @@
+import React from 'react'
+import VideoItem from '../video_item/video_item'
+import style from './video_list.modul1e.css'
+const VideoList = (props) => {
+  return (
+    <ul className ={style.videos}>
+      {props.videos.map( (item) =>
+        <VideoItem
+        key={item.id}
+        videos={item.snippet}
+        />
+      )}
+    </ul>
+  )}
+export default VideoList
+
