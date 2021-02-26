@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.detail{
+  padding: 0.2em;
+}
+.description{
+  white-space: pre-wrap;
+}

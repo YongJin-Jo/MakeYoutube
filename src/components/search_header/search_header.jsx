@@ -22,8 +22,10 @@ const SearchHeader = ({onSearch}) => {
   return (
     <header className={style.header}>
       <div className={style.logo}>
-        <img className={style.img} src="/images/logo.png" alt="logo"/>
-        <h1 className ={style.title}>Youtube</h1>
+        <a href="">
+          <img className={style.img} src="/images/logo.png" alt="logo"/>
+          <h1 className ={style.title}>Youtube</h1>
+        </a>
       </div>
       <input className ={style.input} 
         ref={inputRef}

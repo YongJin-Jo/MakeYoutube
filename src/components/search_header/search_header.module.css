@@ -6,20 +6,18 @@
   color: white;
 }
 
-.logo{
+.logo a{
   display: flex;
   align-items: center;
   margin-right: 1rem;
+  color: white;
 }
 
 
-.title{
-  margin-top: 1rem
-}
+
 
 .input{
   width: 100%;
-  font-size: 1.2rem;
 }
 
 .button{
