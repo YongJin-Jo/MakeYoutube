@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MakeYoutube/static/css/main.659e124f.chunk.css",
+    "main.js": "/MakeYoutube/static/js/main.ae463450.chunk.js",
+    "main.js.map": "/MakeYoutube/static/js/main.ae463450.chunk.js.map",
+    "runtime-main.js": "/MakeYoutube/static/js/runtime-main.363959f0.js",
+    "runtime-main.js.map": "/MakeYoutube/static/js/runtime-main.363959f0.js.map",
+    "static/js/2.80dd733e.chunk.js": "/MakeYoutube/static/js/2.80dd733e.chunk.js",
+    "static/js/2.80dd733e.chunk.js.map": "/MakeYoutube/static/js/2.80dd733e.chunk.js.map",
+    "index.html": "/MakeYoutube/index.html",
+    "static/css/main.659e124f.chunk.css.map": "/MakeYoutube/static/css/main.659e124f.chunk.css.map",
+    "static/js/2.80dd733e.chunk.js.LICENSE.txt": "/MakeYoutube/static/js/2.80dd733e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.363959f0.js",
+    "static/js/2.80dd733e.chunk.js",
+    "static/css/main.659e124f.chunk.css",
+    "static/js/main.ae463450.chunk.js"
+  ]
+}
